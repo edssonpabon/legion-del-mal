@@ -5,3 +5,8 @@
 3. Brainiac
 4. Joker
 5. Harly Quinn
+6. Darkseid
+
+
+# Notas
+Esto es sadsdasde ffs sad
