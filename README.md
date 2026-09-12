@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/edssonpabon/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/edssonpabon/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/edssonpabon/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/edssonpabon/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/edssonpabon/legion-del-mal?cacheseconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
